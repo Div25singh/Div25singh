@@ -20,8 +20,6 @@ I am not an experienced person but I’m sharp at my skills.
 Learning about mainframe for more than 3 years, before even working in the industry gives me an edge over others.
 
 
----
-
 ## I am good at :
 
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
@@ -61,4 +59,5 @@ Learning about mainframe for more than 3 years, before even working in the indus
   
   [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Div25singh&hide=["issues","stars"]&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
