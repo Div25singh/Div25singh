@@ -44,7 +44,7 @@ Learning about mainframe for more than 3 years, before even working in the indus
   <img align="left" width="50px" src="https://pbs.twimg.com/profile_images/1257730965650227206/rHz9PJnO_400x400.png" />
 </a>
 <a href="https://developer.ibm.com/technologies/systems/blogs/master-the-mainframe-announcing-our-2019-winners/">
-  <img align="left" width="50px" src="https://pbs.twimg.com/profile_images/1171103538535161858/8_IdeqWJ.png" />
+  <code><img width="40px" src="https://pbs.twimg.com/profile_images/1171103538535161858/8_IdeqWJ.png" /></code>
 </a>
 
 
