@@ -52,7 +52,7 @@ Learning about mainframe for more than 3 years, before even working in the indus
   <code><img width="40px" src="https://pbs.twimg.com/profile_images/1171103538535161858/8_IdeqWJ.png" /></code>
 </a>
 
-<br>
+<br><br>
 
 <details>
   <summary> <b> My github stats </b> <i>(click to expand!)</i> </summary>
