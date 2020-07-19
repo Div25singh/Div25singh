@@ -4,7 +4,7 @@
 **Div25singh/Div25singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-### :octocat:I’m currently working on z/OS system programming
+### I’m currently working on z/OS system programming:octocat:
 # Divyanshu Singh 🙂
 
 z/OS system programmer | Mainframer | Coder | Freelancer | Data science enthusiast 
