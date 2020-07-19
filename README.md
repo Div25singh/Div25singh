@@ -30,6 +30,16 @@ Learning about mainframe for more than 3 years, before even working in the indus
 * python
 * z/os | ISPF | TSO
 
+### I am good at:
+<code><img width="40px" src="https://img.icons8.com/nolan/64/db-2.png" title="db2"/></code>
+<code><img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8O6eJ2xEX_epdTTOZcqLqIOATgBRp45wq9A&usqp=CAU" title="db2"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f7/Rexx-img-lg.png" title="Linux"/></code>
+
+
 ## 💻You can find me on:
 
 <a href="https://www.linkedin.com/in/divyanshu-singh-b49b46143/">
