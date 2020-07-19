@@ -25,8 +25,10 @@ Learning about mainframe for more than 3 years, before even working in the indus
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/nolan/64/db-2.png" title="db2"/></code>
-<code><img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8O6eJ2xEX_epdTTOZcqLqIOATgBRp45wq9A&usqp=CAU" title="cobol"/></code>
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f7/Rexx-img-lg.png" title="rexx"/></code>
+<code><img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8O6eJ2xEX_epdTTOZcqLqIOATgBRp45wq9A&usqp=CAU" title="COBOL"/></code>
+<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/en/f/f7/Rexx-img-lg.png" title="Rexx"/></code>
+<code><img width="40px" src="https://www.clipartmax.com/png/middle/45-455233_jcl-services-logo-jcl-logo.png" title="JCL"/></code>
+
 
 
 ## 💻You can find me on:
@@ -41,7 +43,7 @@ Learning about mainframe for more than 3 years, before even working in the indus
   <img align="left" width="50px" src="https://pbs.twimg.com/profile_images/1257730965650227206/rHz9PJnO_400x400.png" />
 </a>
 <a href="https://developer.ibm.com/technologies/systems/blogs/master-the-mainframe-announcing-our-2019-winners/">
-  <img align="left" width="50px" src="https://lh3.googleusercontent.com/pw/ACtC-3dQXT92xYHe_v3x14eW_ctR65YQGZd2pT1Mn78BPs5HJCKeiG3BZOAptGt9b_clfK2wiucWJAqot3fLPYn6ab2R9-qmR_1qsUaQw7QxJPJWFqdWzatMXyQRSvJa52ZCDP2TpmZ2j4hS8Mw645C2D-tm=w349-h348-no?authuser=0" />
+  <img align="left" width="50px" src="https://pbs.twimg.com/profile_images/1171103538535161858/8_IdeqWJ.png" />
 </a>
 
 
