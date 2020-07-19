@@ -35,13 +35,13 @@ Learning about mainframe for more than 3 years, before even working in the indus
 ## 💻You can find me on:
 
 <a href="https://www.linkedin.com/in/divyanshu-singh-b49b46143/">
-  <img align="left" width="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" />
+  <code><img width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></code>
 </a>
 <a href = "mailto: div25singh@gmail.com">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+  <code><img width="40px" src="https://img.icons8.com/plasticine/2x/gmail.png" /></code>
 </a>
 <a href="https://www.youracclaim.com/users/divyanshu-singh.6316d57b">
-  <img align="left" width="50px" src="https://pbs.twimg.com/profile_images/1257730965650227206/rHz9PJnO_400x400.png" />
+  <code><img width="40px" src="https://pbs.twimg.com/profile_images/1257730965650227206/rHz9PJnO_400x400.png" /></code>
 </a>
 <a href="https://developer.ibm.com/technologies/systems/blogs/master-the-mainframe-announcing-our-2019-winners/">
   <code><img width="40px" src="https://pbs.twimg.com/profile_images/1171103538535161858/8_IdeqWJ.png" /></code>
