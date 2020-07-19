@@ -11,14 +11,14 @@ z/OS system programmer | Mainframer | Coder | Freelancer | Data science enthusia
 
 <!--![](https://github-readme-stats.vercel.app/api?username=Div25singh&show_icons=true&line_height=30)-->
 
-## 🧐About me 
+## 🧐About me: 
 
 Currently I’m pursuing my bachelors in computer science with specialisation in mainframe technology from UPES. 
 Recently I became the regional winner of Asia-pacific region for Master the mainframe contest that is organised by IBM.
 I am not an experienced person but I’m sharp at my skills.
 Learning about mainframe for more than 3 years, before even working in the industry gives me an edge over others.
 
-## I am good at :desktop_computer:⚡
+## I am good at :
 
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
