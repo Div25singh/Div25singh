@@ -46,5 +46,3 @@ Learning about mainframe for more than 3 years, before even working in the indus
 </a>
 
 
-
-![Image of Yaktocat]()
