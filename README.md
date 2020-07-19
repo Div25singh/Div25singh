@@ -18,8 +18,7 @@ Recently I became the regional winner of Asia-pacific region for Master the main
 I am not an experienced person but I’m sharp at my skills.
 Learning about mainframe for more than 3 years, before even working in the industry gives me an edge over others.
 
-## ⚡Skills :desktop_computer: :octocat:
-### I am good at:
+## ⚡I am good at :desktop_computer::octocat:
 
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
