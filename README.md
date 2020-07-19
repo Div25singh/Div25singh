@@ -5,7 +5,7 @@
 
 -->
 
-# Divyanshu Singh 🙂
+# I'm Divyanshu Singh 🙂
 
 z/OS system programmer | Mainframer | Coder | Freelancer | Data science enthusiast 
 * I’m currently working on z/OS system programming:octocat:
