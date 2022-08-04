@@ -17,7 +17,6 @@ z/OS system programmer | Mainframer | Coder | Freelancer | Data science enthusia
 
 ## 🧐About me: 
 
-* Currently I’m pursuing my bachelors in computer science with specialisation in mainframe technology from UPES. 
 * Recently I became the regional winner of Asia-pacific region for Master the mainframe contest that is organised by IBM.
 * I am not an experienced person but I’m sharp at my skills.
 * Learning about mainframe for more than 3 years, before even working in the industry gives me an edge over others.
